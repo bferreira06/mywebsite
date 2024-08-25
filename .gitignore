@@ -1,0 +1,10 @@
+*.log
+
+/build/
+
+*.tmp
+*.swp
+
+.idea/
+*.sublime-project
+*.sublime-workspace
